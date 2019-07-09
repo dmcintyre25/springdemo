@@ -20,11 +20,11 @@ public class TrackCoach implements Coach {
 
 	@Override
 	public String getDailyFortune() {
-		return "Just do it - " + fortuneService.getFortune();
+		return "Just do it ohhhhh yaaaa- " + fortuneService.getFortune();
 	}
 	
 	public void doMyInitStuff() {
-		System.out.println("Do my startup stuff for track coach");
+		System.out.println("Do my startup stuff for track coach - ohhhh yaa");
 	}
 	
 	public void doMyDestroyStuff() {
